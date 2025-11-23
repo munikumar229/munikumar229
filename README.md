@@ -1,8 +1,8 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm <span style="color:#ff4d6d">Muni Kumar</span></h1>
-<h3 align="center">AI Developer • ML Enthusiast • Problem Solver</h3>
+<h3 align="center"> ML Enthusiast • Problem Solver</h3>
 
----
+
 
 <!-- STREAK -->
 <p align="center">
