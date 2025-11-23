@@ -4,25 +4,61 @@
 
 ---
 
-
-
-
-
-
+<!-- STREAK -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=munikumar229&theme=radical&hide_border=true" />
+  <picture>
+    <!-- Light mode (system theme) -->
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://streak-stats.demolab.com?user=munikumar229&theme=default&hide_border=true"
+    />
+    <!-- Dark mode (system theme) -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://streak-stats.demolab.com?user=munikumar229&theme=radical&hide_border=true"
+    />
+    <!-- Fallback -->
+    <img 
+      alt="GitHub Streak" 
+      src="https://streak-stats.demolab.com?user=munikumar229&theme=radical&hide_border=true"
+    />
+  </picture>
 </p>
 
+<!-- MAIN STATS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munikumar229&show_icons=true&theme=radical&hide_border=true" />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=munikumar229&show_icons=true&theme=default&hide_border=true"
+    />
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=munikumar229&show_icons=true&theme=radical&hide_border=true"
+    />
+    <img 
+      alt="GitHub Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=munikumar229&show_icons=true&theme=radical&hide_border=true"
+    />
+  </picture>
 </p>
 
+<!-- TOP LANGUAGES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munikumar229&layout=compact&theme=radical&hide_border=true" />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=munikumar229&layout=compact&theme=default&hide_border=true"
+    />
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=munikumar229&layout=compact&theme=radical&hide_border=true"
+    />
+    <img 
+      alt="Top Languages" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=munikumar229&layout=compact&theme=radical&hide_border=true"
+    />
+  </picture>
 </p>
 
 ---
-
-
-
-
