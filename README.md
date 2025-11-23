@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#ff4d6d">Muni Kumar</span></h1>
 <h3 align="center">AI Developer • ML Enthusiast • Problem Solver</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=munikumar229&style=for-the-badge&color=blue" alt="Profile Views" />
-</p>
-
 ---
 
 
