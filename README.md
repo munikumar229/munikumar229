@@ -60,5 +60,24 @@
     />
   </picture>
 </p>
+<p align="center">
+  <picture>
+    <!-- Light mode -->
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-profile-trophy.vercel.app/?username=munikumar229&theme=flat&margin-w=10&margin-h=10"
+    />
+    <!-- Dark mode -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-profile-trophy.vercel.app/?username=munikumar229&theme=onedark&margin-w=10&margin-h=10"
+    />
+    <!-- Fallback -->
+    <img 
+      alt="GitHub Profile Trophy" 
+      src="https://github-profile-trophy.vercel.app/?username=munikumar229&theme=onedark&margin-w=10&margin-h=10"
+    />
+  </picture>
+</p>
 
 ---
