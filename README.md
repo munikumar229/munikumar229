@@ -1,10 +1,32 @@
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm <span style="color:#ff4d6d">Muni Kumar</span></h1>
+<h3 align="center">AI Developer • ML Enthusiast • Problem Solver</h3>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://pixel-profile.vercel.app/api/github-stats?username=munikumar229&theme=summer&screen_effect=true" />
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://pixel-profile.vercel.app/api/github-stats?username=munikumar229&theme=blue_chill&screen_effect=true" />
-    <img alt="GitHub Stats"
-      src="https://pixel-profile.vercel.app/api/github-stats?username=munikumar229&theme=summer&screen_effect=true" />
-  </picture>
+  <img src="https://komarev.com/ghpvc/?username=munikumar229&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
+
+---
+
+
+
+
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=munikumar229&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=munikumar229&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munikumar229&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+
+
+
